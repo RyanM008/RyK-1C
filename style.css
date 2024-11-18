@@ -1,0 +1,26 @@
+body{
+    font-family: "Cormorant", serif;
+    background-color: antiquewhite;
+    color: black;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+header{
+    color: blueviolet;
+    border-bottom: 3px solid black;
+    font-size: 32px;
+    padding: 15px;
+}
+h1{
+    font-size: 35px;
+}
+.chamada{
+    background-color: pink;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
